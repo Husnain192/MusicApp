@@ -1,2 +1,2 @@
 # MusicApp
-A static muisc website
+A static music website
